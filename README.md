@@ -2,7 +2,7 @@
 
 I am Lauren Pechey, a Junior Full Stack Software Developer, currently completing a Level 5 Diploma in Web Application Development with Code Institute. I will soon be advancing onto a Masters in Computer Science at the University of York (UK) in June 2023. You can find out more about my experiences as a developer in this document, or contact me directly here:
 
-*Add badges here*
+📫 *Add badges here*
 
 ## 🏆 Recent Achievements
 * Merit Grade Awarded for both Projects 1 and 2 - Code Institute 
