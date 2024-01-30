@@ -1,14 +1,23 @@
 # Hi there 👋
 
-I am Lauren Pechey, a Junior Full Stack Software Developer, currently completing a Level 5 Diploma in Web Application Development with Code Institute. I will soon be advancing onto a Masters in Computer Science at the University of York (UK) in June 2023. You can find out more about my experiences as a developer in this document, or contact me directly here:
+I am Lauren Pechey, a Junior Full Stack Software Developer with a Level 5 Diploma in FullStack Software Development with Code Institute. You can find out more about my experiences as a developer in this document, or contact me directly on LinkedIn:
 
-📫 *Add badges here*
+📫 [LinkedIn](https://www.linkedin.com/in/laurenpechey/)
 
 ## 🏆 Recent Achievements
-* Merit Grade Awarded for both Projects 1 and 2 - Code Institute 
+
+### 🎓 Education
+* Merit Grade Awarded for Full Stack Software Development Diploma - Code Institute 
  * [Project 1 Live Application](https://pecheylauren02.github.io/my-safari/index.html), [GitHub Repository](https://github.com/pecheylauren02/my-safari)
  * [Project 2 Live Application](https://pecheylauren02.github.io/mp2-supervillain-personality-quiz/index.html), [GitHub Repository](https://github.com/pecheylauren02/mp2-supervillain-personality-quiz)
-* Hackathon Participant - New Years Revolutions: Revolutionising finance for 2023 - January 2023 - Code Institute
+ * [Project 3 Live Application](https://pecheylauren02.github.io/mp2-supervillain-personality-quiz/index.html), [GitHub Repository](https://github.com/pecheylauren02/mp2-supervillain-personality-quiz)
+ * [Project 4 Live Application](https://pecheylauren02.github.io/mp2-supervillain-personality-quiz/index.html), [GitHub Repository](https://github.com/pecheylauren02/mp2-supervillain-personality-quiz)
+ * [Project 5 Live Application](https://pecheylauren02.github.io/mp2-supervillain-personality-quiz/index.html), [GitHub Repository](https://github.com/pecheylauren02/mp2-supervillain-personality-quiz)
+
+### 💻 Hackathons
+* Winner 🏆 - Pride Hackathon - May 2023 - Code Institute
+* Top 3 - Hays UK National Mental Health Hackathon - June - August 2023 - Hays & Super Connect
+* 3rd Place Bronze - Budget Busters & Finance 2024 - January 2024 - Code Institute
 
 ## 💻 Technologies
 
@@ -21,32 +30,14 @@ I am Lauren Pechey, a Junior Full Stack Software Developer, currently completing
 ![Gitpod](https://img.shields.io/badge/-Gitpod-f06611.svg?style=flat-square&logo=gitpod&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
-## 🎓 Learning
+## 🎓 Skills
 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![SQL](Add badge here)
 
-## 😎 Other Skills
-
-*Add other skills here*
-
-<!--
-**pecheylauren02/pecheylauren02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 😎 Other Qualifications
+* Postgraduate Degree in Psychology & Research
+  * Skills in qualitative and quantitative research, interviewing, transcribing, communication, statistical analysis & dissertation writing
+* Undergraduate Degree in Psychology & English Language & Literature
