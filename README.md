@@ -10,9 +10,9 @@ I am Lauren Pechey, a Junior Full Stack Software Developer with a Level 5 Diplom
 * Merit Grade Awarded for Full Stack Software Development Diploma - Code Institute 
  * [Project 1 Live Application](https://pecheylauren02.github.io/my-safari/index.html), [GitHub Repository](https://github.com/pecheylauren02/my-safari)
  * [Project 2 Live Application](https://pecheylauren02.github.io/mp2-supervillain-personality-quiz/index.html), [GitHub Repository](https://github.com/pecheylauren02/mp2-supervillain-personality-quiz)
- * [Project 3 Live Application](https://pecheylauren02.github.io/mp2-supervillain-personality-quiz/index.html), [GitHub Repository](https://github.com/pecheylauren02/mp2-supervillain-personality-quiz)
- * [Project 4 Live Application](https://pecheylauren02.github.io/mp2-supervillain-personality-quiz/index.html), [GitHub Repository](https://github.com/pecheylauren02/mp2-supervillain-personality-quiz)
- * [Project 5 Live Application](https://pecheylauren02.github.io/mp2-supervillain-personality-quiz/index.html), [GitHub Repository](https://github.com/pecheylauren02/mp2-supervillain-personality-quiz)
+ * [Project 3 Live Application](https://mp3-madlibs-game.herokuapp.com/), [GitHub Repository](https://github.com/pecheylauren02/mp3_madlibs-game)
+ * [Project 4 Live Application](https://whispers-of-footprints-7b4c45535e12.herokuapp.com/), [GitHub Repository](https://github.com/pecheylauren02/mp4-travel-blog)
+ * [Project 5 Live Application](https://posh-portables-6801c9648247.herokuapp.com/), [GitHub Repository](https://github.com/pecheylauren02/mp5_posh_portables)
 
 ### 💻 Hackathons
 * Winner 🏆 - Pride Hackathon - May 2023 - Code Institute
